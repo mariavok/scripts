@@ -36,4 +36,6 @@ wc $FILENAME > $SUBMITDIR/result/wc_$FILENAME.out
 ## Message that you are done with the job
 echo "Finished running jobs"
 
+echo "Hello"
+
 
